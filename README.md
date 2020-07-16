@@ -6,7 +6,6 @@ IT Security Enthusiast :robot: | Journalist :pencil:
 
 ## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-:heart: Write | :black_heart: Game | :blue_heart: Code
 
 - :earth_americas: I'm from Indonesia
 - :video_game: Game Everytime
