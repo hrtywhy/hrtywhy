@@ -3,7 +3,7 @@
 
 # Hi, I'm Hartoyo Wahyu :chicken:
 
-Full-Stack | Software engineer :robot:. (In progress)
+IT Security Enthusiast :robot: | Journalist :book:
 
 Holberton School Student. :man_technologist:
 
