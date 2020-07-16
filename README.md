@@ -1,7 +1,4 @@
-<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/44236850/87664881-3795be80-c790-11ea-8815-e4affaf14ee4.jpg">
-
-
-# Hi, I'm Hartoyo Wahyu :chicken:
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 IT Security Enthusiast :robot: | Journalist :pencil:
 
