@@ -2,7 +2,7 @@
 
 ## Hi, I'm Hartoyo Wahyu :chicken:
 
-IT Security Enthusiast :robot: | Journalist :pencil:
+IT Security Enthusiast | Journalist :pencil:
 
 ## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
@@ -10,7 +10,7 @@ IT Security Enthusiast :robot: | Journalist :pencil:
 - :earth_americas: I'm from Indonesia
 - :video_game: Game Everytime
 - :fire: Open Source addict
-
+- :robot: Coder
 <br>
 <br>
 
