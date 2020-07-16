@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/44236850/87664518-93ac1300-c78f-11ea-99fc-1eed4522b0a7.jpg">
+<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/44236850/87664881-3795be80-c790-11ea-8815-e4affaf14ee4.jpg">
 
 
 # Hi, I'm Hartoyo Wahyu :chicken:
