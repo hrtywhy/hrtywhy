@@ -12,6 +12,9 @@ IT Security Enthusiast :robot: | Journalist :pencil:
 - :video_game: I like to play video games
 - :gem: I love to customize everything lol
 
+<br>
+<br>
+
 <a href="https://t.me/planktonlaut">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
