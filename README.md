@@ -8,7 +8,7 @@ IT Security Enthusiast :robot: | Journalist :pencil:
 
 ## About me 
 
-:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+:heart: Write | :black_heart: Game | :blue_heart: Code
 
 - :earth_americas: I'm from Medellin - Colombia
 - :video_game: I like to play video games
