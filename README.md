@@ -10,7 +10,6 @@ IT Security Enthusiast | Journalist :pencil:
 - :earth_americas: Indonesia
 - :video_game: Game Everytime
 - :fire: Open Source addict
-- :robot: Coder
 
 ![Hartoyo Wahyu github stats](https://github-readme-stats.vercel.app/api?username=hrtywhy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
