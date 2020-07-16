@@ -21,6 +21,3 @@ IT Security Enthusiast :robot: | Journalist :pencil:
 <a href="https://twitter.com/plankt00n">
   <img align="left" alt="Rice Eater | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
----
-
