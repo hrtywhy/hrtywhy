@@ -7,10 +7,10 @@ IT Security Enthusiast | Journalist :pencil:
 ## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
-:earth_americas: I'm from Indonesia
-:video_game: Game Everytime
-:fire: Open Source addict
-:robot: Coder
+- :earth_americas: I'm from Indonesia
+- :video_game: Game Everytime
+- :fire: Open Source addict
+- :robot: Coder
 <br>
 <br>
 
