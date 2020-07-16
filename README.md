@@ -8,9 +8,9 @@ IT Security Enthusiast :robot: | Journalist :pencil:
 
 :heart: Write | :black_heart: Game | :blue_heart: Code
 
-- :earth_americas: I'm from Medellin - Colombia
-- :video_game: I like to play video games
-- :gem: I love to customize everything lol
+- :earth_americas: I'm from Indonesia
+- :video_game: Game Everytime
+- :fire: Open Source addict
 
 <br>
 <br>
