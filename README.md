@@ -3,9 +3,8 @@
 
 # Hi, I'm Hartoyo Wahyu :chicken:
 
-IT Security Enthusiast :robot: | Journalist :book:
+IT Security Enthusiast :robot: | Journalist :pencil:
 
-Holberton School Student. :man_technologist:
 
 ## About me 
 
