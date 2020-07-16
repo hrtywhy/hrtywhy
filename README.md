@@ -6,7 +6,7 @@
 IT Security Enthusiast :robot: | Journalist :pencil:
 
 
-## About me 
+## About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 :heart: Write | :black_heart: Game | :blue_heart: Code
 
