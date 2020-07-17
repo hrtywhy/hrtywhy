@@ -7,7 +7,7 @@ IT Security Enthusiast | Journalist :pencil:
 ## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
-- :video_game: Game Everytime
+- :video_game: Game never die
 - :fire: Open Source 
 - ☕ Coffe addict
 
