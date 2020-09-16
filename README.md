@@ -2,7 +2,7 @@
 
 ## Hello Friendz!, I'm Hartoyo Wahyu :chicken:
 
-IT Security Enthusiast | Journalist :pencil:
+IT Security Enthusiast | Journalist Investigator
 
 ## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
