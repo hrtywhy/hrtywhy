@@ -11,7 +11,7 @@ IT Security Enthusiast | Journalist Investigator
 - :fire: Open Source 
 - ☕ Coffe addict
 
-![Hartoyo Wahyu github stats](https://github-readme-stats.vercel.app/api?username=hrtywhy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+##![Hartoyo Wahyu github stats](https://github-readme-stats.vercel.app/api?username=hrtywhy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <a href="https://t.me/planktonlaut">
   <img align="left" alt="Telegram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
