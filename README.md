@@ -1,9 +1,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" >
 
-## Hello Friendz!, I'm Hartoyo Wahyu :chicken:
+## Holla I'm Hartoyo Wahyu
 
 IT Security Enthusiast | Journalist Investigator
-
+<br>
 ## About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
