@@ -2,9 +2,9 @@
 
 ## Holla I'm Hartoyo Wahyu
 
- :video_game: Game never die
- :fire: Open Source 
- ☕ Coffe addict
+- :video_game: Game never die
+- :fire: Open Source 
+- ☕ Coffe addict
 
 <!-- ![Hartoyo Wahyu github stats](https://github-readme-stats.vercel.app/api?username=hrtywhy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 <br>
