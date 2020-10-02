@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" >
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" >
 
 ## Holla I'm Hartoyo Wahyu
 
@@ -7,6 +7,7 @@
 - ☕ Coffe addict
 
 <!-- ![Hartoyo Wahyu github stats](https://github-readme-stats.vercel.app/api?username=hrtywhy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+<br>
 <br>
 <br>
 <a href="https://t.me/planktonlaut">
