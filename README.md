@@ -4,8 +4,8 @@
 
 
 - 🤓 Geek
-- :fire: Open Source 
-- ☕ Coffe addict
+- 🖥️ Code Addict
+- ☕ Coffe Lovers
 
 <i>The man who moves a mountain begins by carrying away small stones</i>
 
