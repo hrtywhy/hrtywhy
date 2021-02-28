@@ -2,7 +2,7 @@
 
 ## Herzlich wilkommen!
 
-- :fire: Fulltime Learner
+- 🔥 Fulltime Learner
 - 🤓 Geek
 - 🖥️ Code Addict
 - ☕ Coffe Lovers
