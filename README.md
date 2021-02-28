@@ -2,7 +2,7 @@
 
 ## Herzlich wilkommen!
 
-- :video_game: Game never die
+- :nerd: Geek
 - :fire: Open Source 
 - ☕ Coffe addict
 
