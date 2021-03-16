@@ -4,7 +4,6 @@
 
 - 🔥 Fulltime Learner
 - 🤓 Geek
-- 🖥️ Code Addict
 - ☕ Coffe Lovers
 
 <i>The man who moves a mountain begins by carrying away small stones</i>
