@@ -13,7 +13,9 @@
 <br>
 <br>
 <br>
-<i>The man who moves a mountain begins by carrying away small stones</i>
+<i>"The man who moves a mountain begins by carrying away small stones"</i>
+<br>
+<br>
 <a href="https://t.me/perjakanakal">
   <img align="left" alt="Telegram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
