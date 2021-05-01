@@ -12,7 +12,6 @@
 -->
 <br>
 <br>
-<br>
 <i>"The man who moves a mountain begins by carrying away small stones"</i>
 <br>
 <br>
