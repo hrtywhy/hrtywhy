@@ -4,7 +4,7 @@
 
 - 🔥 Fulltime Learner
 - 🤓 Geek
-- ☕ Coffe Lovers
+- ☕ Coffe Addict
 
 
 
