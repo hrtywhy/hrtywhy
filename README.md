@@ -7,14 +7,29 @@
 - ☕ Coffe Toffe
 
 
+<br>
+```go
+package main
 
-<!-- ![Hartoyo Wahyu github stats](https://github-readme-stats.vercel.app/api?username=hrtywhy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
--->
+type Me struct{
+  Pronouns string
+  Code string
+  Job string
+  BestAndFavoriteSkill string
+}
+
+func main(){
+  me := &Me{
+    Job: "Security engineer and Blue team that aims for a purple team.",
+    Pronouns: "He/Him",
+    Code: "Python and Go and Everythings",
+    BestAndFavoriteSkill: "LazyLazySleepy"
+  }
+  _ = me
+}
+```
 <br>
-<br>
-<i>"The man who moves a mountain begins by carrying away small stones"</i>
-<br>
-<br>
+
 <a href="https://t.me/perjakanakal">
   <img align="left" alt="Telegram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
