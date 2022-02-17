@@ -36,6 +36,6 @@ func main(){
 <a href="https://www.linkedin.com/in/hartoyo-wahyu-958378176/">
   <img align="left" alt="Linkedin" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/aibonaddct">
+<a href="https://twitter.com/">
   <img align="left" alt="Rice Eater | Twitter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
