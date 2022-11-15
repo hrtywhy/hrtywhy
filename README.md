@@ -3,8 +3,8 @@
 ## Hello There
 
 - 🔥 Fulltime Learner
-- 🦇 Night Owl
-- ☕ Coffe Toffe
+- 🦇 Born to Protect
+- ☕ Coffe Everyday
 <br><br><br><br>
 
 ### More about me...
