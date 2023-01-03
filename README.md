@@ -1,6 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" >
 
 ## Hello There
+ThreatHunter for Organization by Day and ThreatIntel Noob by Night
 
 - 🔥 Fulltime Learner
 - 🦇 Born to Protect
