@@ -3,7 +3,7 @@
 ## Hello There
 
 - 🔥 Fulltime Learner
-- 🦇 Born to Protect
+- 🦇 Born to Defense
 - ☕ Coffe Everyday
 <br><br><br><br>
 
