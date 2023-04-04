@@ -20,7 +20,7 @@ type Me struct{
 
 func main(){
   me := &Me{
-    Job: "Detection Engineering | Threat Hunter | Cloud Security",
+    Job: "Detection Engineering & Threat Hunting",
     Pronouns: "He/Him",
     Code: "Python and Go and Everythings",
     BestAndFavoriteSkill: "LazyLazySleepy"
