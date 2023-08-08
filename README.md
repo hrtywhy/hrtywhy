@@ -23,7 +23,7 @@ func main(){
     Job: "Detection Engineering & Threat Hunting",
     Pronouns: "He/Him",
     Code: "Python and Go and Everythings",
-    BestAndFavoriteSkill: "LazyLazySleepy"
+    BestAndFavoriteSkill: "Hunting"
   }
   _ = me
 }
